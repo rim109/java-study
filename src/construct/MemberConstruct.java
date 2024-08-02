@@ -11,6 +11,14 @@ public class MemberConstruct {
         this.age = age;
         this.grade = grade;
     }
+    // 추가
+    MemberConstruct(String name, int age){
+        this(name, age, 50); // -> 아래의 것을 이렇게 변경 가능
+//        this.name = name;
+//        this.age = age;
+//        this.grade = 50;
+        // this는 첫줄에만 사용 가능하다. 
+    }
 
     // 생성자는 메서드와 비슷하지만 차이점이 있다.
     // 1. 생성자의 이름은 클래스 이름과 같아야 하고 그래서 첫글자가 대문자여야 한다.
