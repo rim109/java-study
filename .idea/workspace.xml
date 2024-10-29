@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38dc90eb-8997-473c-a81d-5a11e2907418" name="Changes" comment="feat: 접근 제어자 사용 - 필드, 메서드">
-      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClass.java" afterDir="false" />
+    <list default="true" id="38dc90eb-8997-473c-a81d-5a11e2907418" name="Changes" comment="feat: 접근 제어자 사용 - 클래스 레벨">
+      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="access.b" />
       <recent name="pack" />
       <recent name="pack.b" />
       <recent name="construct" />
@@ -234,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730182754767</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: 접근 제어자 사용 - 클래스 레벨">
+      <option name="closed" value="true" />
+      <created>1730183409033</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730183409033</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +272,7 @@
     <MESSAGE value="feat: 패키지" />
     <MESSAGE value="feat: 접근제이자" />
     <MESSAGE value="feat: 접근 제어자 사용 - 필드, 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 접근 제어자 사용 - 필드, 메서드" />
+    <MESSAGE value="feat: 접근 제어자 사용 - 클래스 레벨" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 접근 제어자 사용 - 클래스 레벨" />
   </component>
 </project>
