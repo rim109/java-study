@@ -7,7 +7,7 @@ public class BankAccount {
         balance = 0;
     }
 
-    // public 메시드: deposit
+    // public 메서드: deposit
     public void deposit(int amount){
         if (isAmountValid(amount)){
             balance += amount;
@@ -16,7 +16,7 @@ public class BankAccount {
         }
     }
 
-    // public 메시드: withdraw
+    // public 메서드: withdraw
     public void withdraw(int amount){
         if (isAmountValid(amount) && balance - amount >= 0){
             balance -= amount;
