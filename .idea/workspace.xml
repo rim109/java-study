@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38dc90eb-8997-473c-a81d-5a11e2907418" name="Changes" comment="feat: 접근 제어자 사용 - 클래스 레벨">
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
+    <list default="true" id="38dc90eb-8997-473c-a81d-5a11e2907418" name="Changes" comment="feat: 스택 영역">
+      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="memory" />
       <recent name="access.b" />
       <recent name="pack" />
       <recent name="pack.b" />
@@ -138,13 +139,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -155,6 +149,9 @@
       <updated>1722554201662</updated>
       <workItem from="1722554202791" duration="8089000" />
       <workItem from="1723272528057" duration="167000" />
+      <workItem from="1730718253863" duration="596000" />
+      <workItem from="1734953970764" duration="1742000" />
+      <workItem from="1735827814970" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 계좌 문제 풀이">
       <option name="closed" value="true" />
@@ -244,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730183409033</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: 문제와 풀이">
+      <option name="closed" value="true" />
+      <created>1734955667879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734955667879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: 스택 영역">
+      <option name="closed" value="true" />
+      <created>1735828243011</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735828243011</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,11 +281,12 @@
     <MESSAGE value="feat: 생성자 도입" />
     <MESSAGE value="feat: 기본 생성자" />
     <MESSAGE value="feat: 오버로딩과 this" />
-    <MESSAGE value="feat: 문제와 풀이" />
     <MESSAGE value="feat: 패키지" />
     <MESSAGE value="feat: 접근제이자" />
     <MESSAGE value="feat: 접근 제어자 사용 - 필드, 메서드" />
     <MESSAGE value="feat: 접근 제어자 사용 - 클래스 레벨" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 접근 제어자 사용 - 클래스 레벨" />
+    <MESSAGE value="feat: 문제와 풀이" />
+    <MESSAGE value="feat: 스택 영역" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 스택 영역" />
   </component>
 </project>
